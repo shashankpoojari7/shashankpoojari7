@@ -6,9 +6,11 @@ Currently exploring system design, distributed systems, database internals, and 
 
 ---
 
-**Say hi —**
+**Say hi**
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shashankpoojari00@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankpoojari2003)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_shashankpoojari_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shashankpoojari.vercel.app)
+<p>
+  <a href="mailto:shashankpoojari00@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/shashankpoojari2003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/_shashankpoojari_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://shashankpoojari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=firefox-browser&logoColor=white" /></a>
+</p>
