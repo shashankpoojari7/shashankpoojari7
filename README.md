@@ -1,26 +1,13 @@
-# Hey, I'm Shashank 👋
+### Hey, I'm Shashank 👋
 
-I'm a full stack developer who leans heavily on the backend. I spend most of my time building APIs, real-time features, and the kind of infrastructure work that nobody notices until it breaks.
+Software Developer passionate about building scalable applications and solving complex engineering problems. I enjoy turning ideas into real products while understanding how systems, databases, and large-scale software work behind the scenes.
 
-I enjoy the problem-solving side of this more than anything — figuring out why something is slow, how to make it reliable, or the cleanest way to structure something that'll need to scale.
-
-Still learning. Always will be.
+Currently exploring system design, distributed systems, database internals, and software architecture. Always learning, always building.
 
 ---
 
-### What I'm into right now
-
-- Getting better at system design — the real-world tradeoffs, not just the theory
-- Understanding how databases actually make decisions under the hood
-- Finding open source projects worth contributing to
-
----
-
-### Say hi
-
-<p>
-  <a href="mailto:shashankpoojari00@gmail.com"><img src="https://img.shields.io/badge/Gmail-shashankpoojari00-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://linkedin.com/in/shashankpoojari2003"><img src="https://img.shields.io/badge/LinkedIn-shashankpoojari2003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://shashankpoojari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-shashankpoojari-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
-  <a href="https://instagram.com/_shashankpoojari_"><img src="https://img.shields.io/badge/Instagram-@_shashankpoojari_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+**Say hi —**
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankpoojari00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankpoojari2003)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shashankpoojari.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_shashankpoojari_)
