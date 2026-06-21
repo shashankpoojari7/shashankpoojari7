@@ -1,88 +1,26 @@
-```
-███████╗██╗  ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗
-██╔════╝██║  ██║██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝
-███████╗███████║███████║███████╗███████║███████║██╔██╗ ██║█████╔╝ 
-╚════██║██╔══██║██╔══██║╚════██║██╔══██║██╔══██║██║╚██╗██║██╔═██╗ 
-███████║██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚████║██║  ██╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+# Hey, I'm Shashank 👋
 
-<div align="center">
+I'm a full stack developer who leans heavily on the backend. I spend most of my time building APIs, real-time features, and the kind of infrastructure work that nobody notices until it breaks.
 
-### Backend-Focused Full Stack Developer
-**Building systems that scale · APIs that don't break · Auth that actually works**
+I enjoy the problem-solving side of this more than anything — figuring out why something is slow, how to make it reliable, or the cleanest way to structure something that'll need to scale.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankpoojari2003)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://shashankpoojari.vercel.app)
-[![Email](https://img.shields.io/badge/Email_me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shashankpoojari00@gmail.com)
-
-</div>
+Still learning. Always will be.
 
 ---
 
-## What I actually do
+### What I'm into right now
 
-I design and build the parts of an app most people never see — but always feel.
-
-- **Scalable REST & real-time APIs** — Node.js + Express + Socket.io, designed for high concurrency from day one
-- **Auth systems** — JWT flows, refresh token rotation, session management, OAuth integrations
-- **Database architecture** — MongoDB schema design, Redis caching strategies, MySQL for relational workloads
-- **Infrastructure** — Docker containers, Kubernetes orchestration, CI/CD pipelines with GitLab
-
-I care about making things that are boring in the right way: predictable, observable, and easy to hand off.
+- Getting better at system design — the real-world tradeoffs, not just the theory
+- Understanding how databases actually make decisions under the hood
+- Finding open source projects worth contributing to
 
 ---
 
-## Current focus
+### Say hi
 
-```
-→ Deepening system design fundamentals (distributed systems, CAP theorem in practice)
-→ Contributing to open source Node.js tooling
-→ Exploring database internals — how query planners actually make decisions
-```
-
----
-
-## Stack I reach for
-
-**Core:**
-`Node.js` · `TypeScript` · `Express.js` · `MongoDB` · `Redis` · `MySQL`
-
-**Frontend (when needed):**
-`React` · `Next.js` · `TailwindCSS`
-
-**Infra & Tooling:**
-`Docker` · `Kubernetes` · `Git` · `Postman` · `GitLab CI`
-
-**Also worked with:**
-`Python` · `Flask` · `Java` · `PHP` · `Socket.io` · `Redux` · `React Query`
-
----
-
-## GitHub activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashankpoojari7&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=shashankpoojari7&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## A few things worth knowing
-
-- I write code for the next developer who has to read it, not just the machine that runs it
-- I prefer understanding *why* a tool works before I use it in production
-- I'm more interested in building things that last than things that impress in a demo
-
----
-
-<div align="center">
-
-*Open to backend / full stack roles · Freelance projects · Interesting problems*
-
-`shashankpoojari00@gmail.com`
-
-</div>
+<p>
+  <a href="mailto:shashankpoojari00@gmail.com"><img src="https://img.shields.io/badge/Gmail-shashankpoojari00-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/shashankpoojari2003"><img src="https://img.shields.io/badge/LinkedIn-shashankpoojari2003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://shashankpoojari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-shashankpoojari-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/_shashankpoojari_"><img src="https://img.shields.io/badge/Instagram-@_shashankpoojari_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
